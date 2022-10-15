@@ -52,16 +52,21 @@
 </p>
 
 
-<div class="Academico">
 <h2 align="center"> Formation | Studying <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
-<br>
 
-<p aling="left"><a href="https://portal.fmu.br/"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_fmu.jpg" height="23px" > </a> </p>
+<p><a href="https://portal.fmu.br/"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_fmu.jpg" height="23px" > </a> </p>
 
-<p aling="left"> <a href="https://app.rocketseat.com.br/me/gustavo-de-andrade-celleguim-09258"> <img src="https://t2.tudocdn.net/572277?w=646&h=284" height="30px"> </p>
+<p> <a href="https://app.rocketseat.com.br/me/gustavo-de-andrade-celleguim-09258"> <img src="https://t2.tudocdn.net/572277?w=646&h=284" height="30px"> </p>
 
-<p aling="left"> <a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_0vXj4BHWVybNMqycGmZM31Cep2z-PETllkQRSFINvvip2h-OH31WzgjOoz3iNm0ZA&usqp=CAU" height="30px"> </p>
+<p> <a href="http://www.evoloo.com.br/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_0vXj4BHWVybNMqycGmZM31Cep2z-PETllkQRSFINvvip2h-OH31WzgjOoz3iNm0ZA&usqp=CAU" height="30px"> </p>
 
+</div>
 
- ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)  
+ <div align="center">
+ 
+ ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+ 
+  <p>Feito com :heart: e dedicação </p>
+  
+</div>
 
