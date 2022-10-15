@@ -66,7 +66,7 @@
  
  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
  
-  <p>Feito com :heart: e dedicação </p>
+  <p> Made with :heart: and Dedication </p>
   
 </div>
 
